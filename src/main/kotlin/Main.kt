@@ -1,8 +1,6 @@
-import puzzle1
-
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-    println(puzzle3())
-    println(puzzle3dot1())
+    println(puzzle4())
+    println(puzzle4dot1())
 }
