@@ -1,6 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-    println(puzzle4())
-    println(puzzle4dot1())
+    println(puzzle5())
+    println(puzzle5dot1())
 }
